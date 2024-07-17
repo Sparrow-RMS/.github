@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are a bunch of curious noobs trying to make a difference in the society by helping companies do their dirty work.
+
 <!--
 
 **Here are some ideas to get you started:**
